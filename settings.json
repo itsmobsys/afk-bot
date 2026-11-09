@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "adminofserverboink",
+    "username": "IGNORE",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "kavvaie.play.hosting",
-    "port": 25776,
+    "ip": "nolimits.play.hosting",
+    "port": 25583,
     "version": "",
     "try-creative": false
   },
